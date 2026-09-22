@@ -1,0 +1,117 @@
+{
+  "missing_count": 14,
+  "missing_assets": [
+    {
+      "portable_name": "13.png",
+      "original_path": "C:\\Users\\infin\\Downloads\\제목 없는 디자인 (13).png",
+      "original_filename": "제목 없는 디자인 (13).png",
+      "used_by_rules": [
+        "arena dark mode"
+      ]
+    },
+    {
+      "portable_name": "2a9b8f20-3ad5-4754-9638-21302f6238a1.jpeg",
+      "original_path": "C:\\Users\\infin\\OneDrive\\Desktop\\스텔\\2a9b8f20-3ad5-4754-9638-21302f6238a1.jpeg",
+      "original_filename": "2a9b8f20-3ad5-4754-9638-21302f6238a1.jpeg",
+      "used_by_rules": [
+        "replace logo with stupid old me"
+      ]
+    },
+    {
+      "portable_name": "lvl.png",
+      "original_path": "C:\\Users\\infin\\Downloads\\lvl.png",
+      "original_filename": "lvl.png",
+      "used_by_rules": [
+        "lvl icon is now a shard"
+      ]
+    },
+    {
+      "portable_name": "f58663a8-b6b4-4cd2-87fc-1688272d39f8-photoroom.png",
+      "original_path": "C:\\Users\\infin\\Downloads\\f58663a8-b6b4-4cd2-87fc-1688272d39f8-Photoroom.png",
+      "original_filename": "f58663a8-b6b4-4cd2-87fc-1688272d39f8-Photoroom.png",
+      "used_by_rules": [
+        "chickn"
+      ]
+    },
+    {
+      "portable_name": "sky512_bk.tex",
+      "original_path": "C:\\Users\\infin\\Downloads\\Akane Lize\\sky512_bk.tex",
+      "original_filename": "sky512_bk.tex",
+      "used_by_rules": [
+        "SBK"
+      ]
+    },
+    {
+      "portable_name": "sky512_dn.tex",
+      "original_path": "C:\\Users\\infin\\Downloads\\Akane Lize\\sky512_dn.tex",
+      "original_filename": "sky512_dn.tex",
+      "used_by_rules": [
+        "SDN"
+      ]
+    },
+    {
+      "portable_name": "sky512_lf.tex",
+      "original_path": "C:\\Users\\infin\\Downloads\\Akane Lize\\sky512_lf.tex",
+      "original_filename": "sky512_lf.tex",
+      "used_by_rules": [
+        "SLF"
+      ]
+    },
+    {
+      "portable_name": "sky512_rt.tex",
+      "original_path": "C:\\Users\\infin\\Downloads\\Akane Lize\\sky512_rt.tex",
+      "original_filename": "sky512_rt.tex",
+      "used_by_rules": [
+        "SRT"
+      ]
+    },
+    {
+      "portable_name": "sky512_up.tex",
+      "original_path": "C:\\Users\\infin\\Downloads\\Akane Lize\\sky512_up.tex",
+      "original_filename": "sky512_up.tex",
+      "used_by_rules": [
+        "SUP"
+      ]
+    },
+    {
+      "portable_name": "sky512_ft.tex",
+      "original_path": "C:\\Users\\infin\\Downloads\\Akane Lize\\sky512_ft.tex",
+      "original_filename": "sky512_ft.tex",
+      "used_by_rules": [
+        "SFT"
+      ]
+    },
+    {
+      "portable_name": "stellive-star-trail-piano-cover-_320k-mp3cut.net-1.mp3",
+      "original_path": "C:\\Users\\infin\\Downloads\\스텔라이브 (StelLive) - STAR TRAIL [PIANO COVER]_320k (mp3cut.net) (1).mp3",
+      "original_filename": "스텔라이브 (StelLive) - STAR TRAIL [PIANO COVER]_320k (mp3cut.net) (1).mp3",
+      "used_by_rules": [
+        "ding to the bird"
+      ]
+    },
+    {
+      "portable_name": "stellive-star-trail-piano-cover-_320k-mp3cut.net.mp3",
+      "original_path": "C:\\Users\\infin\\Downloads\\스텔라이브 (StelLive) - STAR TRAIL [PIANO COVER]_320k (mp3cut.net).mp3",
+      "original_filename": "스텔라이브 (StelLive) - STAR TRAIL [PIANO COVER]_320k (mp3cut.net).mp3",
+      "used_by_rules": [
+        "intro theme to lego brick"
+      ]
+    },
+    {
+      "portable_name": "1bcd4b35-0831-4c15-97e1-6ef54f8f2e56-photoroom.png",
+      "original_path": "C:\\Users\\infin\\Downloads\\1bcd4b35-0831-4c15-97e1-6ef54f8f2e56-Photoroom.png",
+      "original_filename": "1bcd4b35-0831-4c15-97e1-6ef54f8f2e56-Photoroom.png",
+      "used_by_rules": [
+        "incubatron"
+      ]
+    },
+    {
+      "portable_name": "images-photoroom.png",
+      "original_path": "C:\\Users\\infin\\Downloads\\images-Photoroom.png",
+      "original_filename": "images-Photoroom.png",
+      "used_by_rules": [
+        "replace the nosniy logo g with an emoticon :)"
+      ]
+    }
+  ]
+}
