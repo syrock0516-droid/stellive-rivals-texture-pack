@@ -1,0 +1,195 @@
+{
+  "included_count": 21,
+  "included_assets": [
+    {
+      "portable_name": "paperlogy-9black.ttf",
+      "original_path": "C:\\Users\\infin\\Downloads\\Paperlogy-1.001\\Paperlogy-9Black.ttf",
+      "original_filename": "Paperlogy-9Black.ttf",
+      "used_by_rules": [
+        "dafont???",
+        "onyx removal"
+      ],
+      "copied_from": "C:\\Users\\syroc\\Documents\\Codex\\2026-09-22\\d\\work\\stellive-texture-pack-img-20260922-2111\\stellive texture pack img\\Paperlogy-9Black.ttf"
+    },
+    {
+      "portable_name": "archnemesis.png",
+      "original_path": "C:\\Users\\infin\\Downloads\\archnemesis.png",
+      "original_filename": "archnemesis.png",
+      "used_by_rules": [
+        "arch to x+"
+      ],
+      "copied_from": "C:\\Users\\syroc\\Documents\\Codex\\2026-09-22\\d\\work\\stellive-texture-pack-img-20260922-2111\\stellive texture pack img\\archnemesis.png"
+    },
+    {
+      "portable_name": "nemesis.png",
+      "original_path": "C:\\Users\\infin\\Downloads\\nemesis.png",
+      "original_filename": "nemesis.png",
+      "used_by_rules": [
+        "nem to x standard"
+      ],
+      "copied_from": "C:\\Users\\syroc\\Documents\\Codex\\2026-09-22\\d\\work\\stellive-texture-pack-img-20260922-2111\\stellive texture pack img\\nemesis.png"
+    },
+    {
+      "portable_name": "bronze.png",
+      "original_path": "C:\\Users\\infin\\Downloads\\bronze.png",
+      "original_filename": "bronze.png",
+      "used_by_rules": [
+        "bronze to f rank"
+      ],
+      "copied_from": "C:\\Users\\syroc\\Documents\\Codex\\2026-09-22\\d\\work\\stellive-texture-pack-img-20260922-2111\\stellive texture pack img\\bronze.png"
+    },
+    {
+      "portable_name": "silver1.png",
+      "original_path": "C:\\Users\\infin\\Downloads\\silver1.png",
+      "original_filename": "silver1.png",
+      "used_by_rules": [
+        "silver 1 to d-"
+      ],
+      "copied_from": "C:\\Users\\syroc\\Documents\\Codex\\2026-09-22\\d\\work\\stellive-texture-pack-img-20260922-2111\\stellive texture pack img\\silver1.png"
+    },
+    {
+      "portable_name": "silver2.png",
+      "original_path": "C:\\Users\\infin\\Downloads\\silver2.png",
+      "original_filename": "silver2.png",
+      "used_by_rules": [
+        "silver 2 to d"
+      ],
+      "copied_from": "C:\\Users\\syroc\\Documents\\Codex\\2026-09-22\\d\\work\\stellive-texture-pack-img-20260922-2111\\stellive texture pack img\\silver2.png"
+    },
+    {
+      "portable_name": "silver3.png",
+      "original_path": "C:\\Users\\infin\\Downloads\\silver3.png",
+      "original_filename": "silver3.png",
+      "used_by_rules": [
+        "silver 3 to d+"
+      ],
+      "copied_from": "C:\\Users\\syroc\\Documents\\Codex\\2026-09-22\\d\\work\\stellive-texture-pack-img-20260922-2111\\stellive texture pack img\\silver3.png"
+    },
+    {
+      "portable_name": "gold1.png",
+      "original_path": "C:\\Users\\infin\\Downloads\\gold1.png",
+      "original_filename": "gold1.png",
+      "used_by_rules": [
+        "gold 1 to c-"
+      ],
+      "copied_from": "C:\\Users\\syroc\\Documents\\Codex\\2026-09-22\\d\\work\\stellive-texture-pack-img-20260922-2111\\stellive texture pack img\\gold1.png"
+    },
+    {
+      "portable_name": "gold2.png",
+      "original_path": "C:\\Users\\infin\\Downloads\\gold2.png",
+      "original_filename": "gold2.png",
+      "used_by_rules": [
+        "gold 2 to c"
+      ],
+      "copied_from": "C:\\Users\\syroc\\Documents\\Codex\\2026-09-22\\d\\work\\stellive-texture-pack-img-20260922-2111\\stellive texture pack img\\gold2.png"
+    },
+    {
+      "portable_name": "gold3.png",
+      "original_path": "C:\\Users\\infin\\Downloads\\gold3.png",
+      "original_filename": "gold3.png",
+      "used_by_rules": [
+        "gold 3 to c+"
+      ],
+      "copied_from": "C:\\Users\\syroc\\Documents\\Codex\\2026-09-22\\d\\work\\stellive-texture-pack-img-20260922-2111\\stellive texture pack img\\gold3.png"
+    },
+    {
+      "portable_name": "platinum1.png",
+      "original_path": "C:\\Users\\infin\\Downloads\\platinum1.png",
+      "original_filename": "platinum1.png",
+      "used_by_rules": [
+        "plat 1 to b-"
+      ],
+      "copied_from": "C:\\Users\\syroc\\Documents\\Codex\\2026-09-22\\d\\work\\stellive-texture-pack-img-20260922-2111\\stellive texture pack img\\platinum1.png"
+    },
+    {
+      "portable_name": "platinum2.png",
+      "original_path": "C:\\Users\\infin\\Downloads\\platinum2.png",
+      "original_filename": "platinum2.png",
+      "used_by_rules": [
+        "plat 2 to b"
+      ],
+      "copied_from": "C:\\Users\\syroc\\Documents\\Codex\\2026-09-22\\d\\work\\stellive-texture-pack-img-20260922-2111\\stellive texture pack img\\platinum2.png"
+    },
+    {
+      "portable_name": "platinum3.png",
+      "original_path": "C:\\Users\\infin\\Downloads\\platinum3.png",
+      "original_filename": "platinum3.png",
+      "used_by_rules": [
+        "plat 3 to b+"
+      ],
+      "copied_from": "C:\\Users\\syroc\\Documents\\Codex\\2026-09-22\\d\\work\\stellive-texture-pack-img-20260922-2111\\stellive texture pack img\\platinum3.png"
+    },
+    {
+      "portable_name": "diamond1.png",
+      "original_path": "C:\\Users\\infin\\Downloads\\diamond1.png",
+      "original_filename": "diamond1.png",
+      "used_by_rules": [
+        "diam 1 to a-"
+      ],
+      "copied_from": "C:\\Users\\syroc\\Documents\\Codex\\2026-09-22\\d\\work\\stellive-texture-pack-img-20260922-2111\\stellive texture pack img\\diamond1.png"
+    },
+    {
+      "portable_name": "diamond2.png",
+      "original_path": "C:\\Users\\infin\\Downloads\\diamond2.png",
+      "original_filename": "diamond2.png",
+      "used_by_rules": [
+        "diam2 to A rank"
+      ],
+      "copied_from": "C:\\Users\\syroc\\Documents\\Codex\\2026-09-22\\d\\work\\stellive-texture-pack-img-20260922-2111\\stellive texture pack img\\diamond2.png"
+    },
+    {
+      "portable_name": "diamond3.png",
+      "original_path": "C:\\Users\\infin\\Downloads\\diamond3.png",
+      "original_filename": "diamond3.png",
+      "used_by_rules": [
+        "diam 3 to a+"
+      ],
+      "copied_from": "C:\\Users\\syroc\\Documents\\Codex\\2026-09-22\\d\\work\\stellive-texture-pack-img-20260922-2111\\stellive texture pack img\\diamond3.png"
+    },
+    {
+      "portable_name": "onix1.png",
+      "original_path": "C:\\Users\\infin\\Downloads\\onix1.png",
+      "original_filename": "onix1.png",
+      "used_by_rules": [
+        "o1 to s"
+      ],
+      "copied_from": "C:\\Users\\syroc\\Documents\\Codex\\2026-09-22\\d\\work\\stellive-texture-pack-img-20260922-2111\\stellive texture pack img\\onix1.png"
+    },
+    {
+      "portable_name": "onix2.png",
+      "original_path": "C:\\Users\\infin\\Downloads\\onix2.png",
+      "original_filename": "onix2.png",
+      "used_by_rules": [
+        "o2 to ss"
+      ],
+      "copied_from": "C:\\Users\\syroc\\Documents\\Codex\\2026-09-22\\d\\work\\stellive-texture-pack-img-20260922-2111\\stellive texture pack img\\onix2.png"
+    },
+    {
+      "portable_name": "onix3.png",
+      "original_path": "C:\\Users\\infin\\Downloads\\onix3.png",
+      "original_filename": "onix3.png",
+      "used_by_rules": [
+        "o3 to u"
+      ],
+      "copied_from": "C:\\Users\\syroc\\Documents\\Codex\\2026-09-22\\d\\work\\stellive-texture-pack-img-20260922-2111\\stellive texture pack img\\onix3.png"
+    },
+    {
+      "portable_name": "winstreak.png",
+      "original_path": "C:\\Users\\infin\\Downloads\\winstreak.png",
+      "original_filename": "winstreak.png",
+      "used_by_rules": [
+        "streak icon replacement"
+      ],
+      "copied_from": "C:\\Users\\syroc\\Documents\\Codex\\2026-09-22\\d\\work\\stellive-texture-pack-img-20260922-2111\\stellive texture pack img\\winstreak.png"
+    },
+    {
+      "portable_name": "wall.png",
+      "original_path": "C:\\Users\\infin\\Downloads\\wall.png",
+      "original_filename": "wall.png",
+      "used_by_rules": [
+        "arena wall"
+      ],
+      "copied_from": "C:\\Users\\syroc\\Documents\\Codex\\2026-09-22\\d\\work\\stellive-texture-pack-img-20260922-2111\\stellive texture pack img\\wall.png"
+    }
+  ]
+}
